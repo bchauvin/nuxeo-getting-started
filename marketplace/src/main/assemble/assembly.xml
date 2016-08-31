@@ -22,6 +22,7 @@
     <copy todir="${outdir}/marketplace/install/bundles">
       <artifact:file key="org.nuxeo.ecm.platform:nuxeo-showcase-content-importer"/>
       <artifact:file key="org.nuxeo.tutorials:getting-started-content-project"/>
+      <artifact:file key="nuxeo-studio:contract-management-nuxe"/>
     </copy>
 
     <zip destfile="${outdir}/${maven.project.artifactId}-${maven.project.version}.zip"

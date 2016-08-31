@@ -20,6 +20,7 @@
 
   <properties>
     <sample.data.version>0.0.0-SNAPSHOT</sample.data.version>
+    <studio.project.version>0.0.1</studio.project.version>
   </properties>
 
   <profiles>
@@ -50,6 +51,11 @@
         <artifactId>getting-started-content</artifactId>
         <version>${sample.data.version}</version>
         <type>zip</type>
+      </dependency>
+      <dependency>
+        <groupId>nuxeo-studio</groupId>
+        <artifactId>contract-management-nuxe</artifactId>
+        <version>${studio.project.version}</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
