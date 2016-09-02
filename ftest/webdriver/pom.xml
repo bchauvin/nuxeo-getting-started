@@ -2,14 +2,14 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>org.nuxeo.ecm.platform</groupId>
-    <artifactId>marketplace-nuxeo-showcase-content-parent</artifactId>
-    <version>1.1.3-SNAPSHOT</version>
+    <groupId>org.nuxeo.tutorials</groupId>
+    <artifactId>marketplace-getting-started-parent</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
     <relativePath>../../pom.xml</relativePath>
   </parent>
 
   <artifactId>webdriver</artifactId>
-  <name>Nuxeo Showcase Content - Nuxeo package - WebDriver</name>
+  <name>Getting Started With Nuxeo Platform - WebDriver</name>
 
   <dependencies>
     <dependency>
@@ -38,8 +38,8 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>org.nuxeo.ecm.platform</groupId>
-      <artifactId>marketplace-nuxeo-showcase-content-sample</artifactId>
+      <groupId>org.nuxeo.tutorials</groupId>
+      <artifactId>marketplace-getting-started</artifactId>
       <type>zip</type>
       <scope>test</scope>
     </dependency>

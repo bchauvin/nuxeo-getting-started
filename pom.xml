@@ -19,8 +19,8 @@
   </modules>
 
   <properties>
-    <sample.data.version>0.0.0-SNAPSHOT</sample.data.version>
-    <studio.project.version>0.0.1</studio.project.version>
+    <sample.data.version>1.0.0</sample.data.version>
+    <studio.project.version>8.4.0</studio.project.version>
   </properties>
 
   <profiles>

@@ -9,7 +9,7 @@
 
   <artifactId>marketplace-getting-started</artifactId>
   <packaging>zip</packaging>
-  <name>Nuxeo Showcase Content - Nuxeo package</name>
+  <name>Getting Started With Nuxeo Platform - Nuxeo package</name>
 
   <dependencies>
     <dependency>
