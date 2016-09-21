@@ -102,10 +102,10 @@
   </repositories>
 
   <scm>
-    <connection>scm:git:git://github.com/nuxeo/marketplace-showcase-content-sample.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com:nuxeo/marketplace-showcase-content-sample.git
+    <connection>scm:git:git://github.com/nuxeo-sandbox/marketplace-nuxeo-getting-started.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com:nuxeo-sandbox/marketplace-nuxeo-getting-started.git
     </developerConnection>
-    <url>https://github.com/nuxeo/marketplace-showcase-content-sample</url>
+    <url>https://github.com/nuxeo-sandbox/marketplace-nuxeo-getting-started</url>
   </scm>
 
 </project>
