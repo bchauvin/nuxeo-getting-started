@@ -1,3 +1,5 @@
+[![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=master/plugins_FT_getting-started-master)](https://qa.nuxeo.org/jenkins/job/master/job/plugins_FT_getting-started-master/)
+
 # Getting Started With Nuxeo Platform Package
 
 * Adds content in your instance to follow the "Getting Started With Nuxeo Platform" tutorial
