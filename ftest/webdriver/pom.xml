@@ -4,12 +4,13 @@
   <parent>
     <groupId>org.nuxeo.tutorials</groupId>
     <artifactId>marketplace-getting-started-parent</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.1.0-SNAPSHOT</version>
     <relativePath>../../pom.xml</relativePath>
   </parent>
 
   <artifactId>webdriver</artifactId>
-  <name>Getting Started With Nuxeo Platform - WebDriver</name>
+  <name>Getting Started - WebDriver Tests</name>
+  <description>Getting Started With the Nuxeo Platform - WebDriver</description>
 
   <dependencies>
     <dependency>

@@ -20,7 +20,7 @@
 
   <properties>
     <sample.data.version>1.0.0</sample.data.version>
-    <studio.project.version>0.0.0</studio.project.version>
+    <nuxeo.studio.version>8.4.0--master-SNAPSHOT</nuxeo.studio.version>
   </properties>
 
   <profiles>
@@ -54,7 +54,7 @@
       <dependency>
         <groupId>nuxeo-studio</groupId>
         <artifactId>contract-management-nuxe</artifactId>
-        <version>${studio.project.version}</version>
+        <version>${nuxeo.studio.version}</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
@@ -95,10 +95,10 @@
   </repositories>
 
   <scm>
-    <connection>scm:git:git://github.com/nuxeo-sandbox/marketplace-nuxeo-getting-started.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com:nuxeo-sandbox/marketplace-nuxeo-getting-started.git
+    <connection>scm:git:git://github.com/nuxeo/marketplace-nuxeo-getting-started.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com:nuxeo/marketplace-nuxeo-getting-started.git
     </developerConnection>
-    <url>https://github.com/nuxeo-sandbox/marketplace-nuxeo-getting-started</url>
+    <url>https://github.com/nuxeo/marketplace-nuxeo-getting-started</url>
   </scm>
 
 </project>
