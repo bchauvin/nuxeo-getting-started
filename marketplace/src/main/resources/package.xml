@@ -10,7 +10,7 @@
   <uninstaller restart="true" />
   <nuxeo-validation>nuxeo_certified</nuxeo-validation>
   <production-state>production_ready</production-state>
-  <supported>false</supported>
+  <supported>true</supported>
   <platforms>
     <platform>cap-@DISTRIB_VERSION@</platform>
     <platform>cap-@DISTRIB_VERSION@-HF*</platform>
