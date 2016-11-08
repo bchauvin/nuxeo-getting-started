@@ -4,7 +4,7 @@
   <description>
     <p>This addon adds content and configuration to follow the "Getting Started With the Nuxeo Platform” tutorial.</p>
   </description>
-  <home-page>http://doc.nuxeo.com/</home-page>
+  <home-page>https://doc.nuxeo.com/nxdoc/getting-started-with-the-nuxeo-platform/</home-page>
   <vendor>Nuxeo</vendor>
   <installer restart="true" />
   <uninstaller restart="true" />
