@@ -20,7 +20,7 @@
 
   <properties>
     <sample.data.version>1.0.0</sample.data.version>
-    <nuxeo.studio.version>8.4.0--master-SNAPSHOT</nuxeo.studio.version>
+    <nuxeo.studio.version>8.10.0</nuxeo.studio.version>
   </properties>
 
   <profiles>
