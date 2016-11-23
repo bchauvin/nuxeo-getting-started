@@ -20,7 +20,7 @@
   <properties>
     <sample.data.version>1.0.0</sample.data.version>
     <nuxeo.studio.version>8.10.1</nuxeo.studio.version>
-    <marketplace.dam.version>6.2.3-SNAPSHOT</marketplace.dam.version>
+    <marketplace.dam.version>6.3.0-SNAPSHOT</marketplace.dam.version>
   </properties>
 
   <profiles>
