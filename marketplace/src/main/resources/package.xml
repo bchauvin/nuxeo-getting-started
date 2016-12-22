@@ -2,7 +2,7 @@
 <package type="addon" name="nuxeo-platform-getting-started" version="@VERSION@">
   <title>Getting Started with the Nuxeo Platform</title>
   <description>
-    <p>This addon adds content and configuration to follow the "Getting Started With the Nuxeo Platform” tutorial.</p>
+    <p>This addon adds content and configuration to follow the "Getting Started With the Nuxeo Platform” tutorial (https://doc.nuxeo.com/nxdoc/getting-started-with-the-nuxeo-platform/).</p>
   </description>
   <home-page>https://doc.nuxeo.com/nxdoc/getting-started-with-the-nuxeo-platform/</home-page>
   <vendor>Nuxeo</vendor>
