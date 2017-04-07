@@ -18,8 +18,8 @@
   </modules>
 
   <properties>
-    <sample.data.version>1.1.0</sample.data.version>
-    <nuxeo.studio.version>9.1.0</nuxeo.studio.version>
+    <sample.data.version>1.1.1</sample.data.version>
+    <nuxeo.studio.version>9.1.1</nuxeo.studio.version>
     <marketplace.dam.version>6.3.0-SNAPSHOT</marketplace.dam.version>
   </properties>
 
