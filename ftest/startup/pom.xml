@@ -39,7 +39,7 @@
     </dependency>
     <dependency>
       <groupId>org.nuxeo.ecm.distribution</groupId>
-      <artifactId>nuxeo-marketplace-jsf-ui</artifactId>
+      <artifactId>nuxeo-web-ui-marketplace</artifactId>
       <type>zip</type>
       <scope>test</scope>
     </dependency>
