@@ -19,7 +19,7 @@
 
   <properties>
     <sample.data.version>1.1.1</sample.data.version>
-    <nuxeo.studio.version>9.1.1</nuxeo.studio.version>
+    <nuxeo.studio.version>9.10.0</nuxeo.studio.version>
     <marketplace.dam.version>6.3.3-SNAPSHOT</marketplace.dam.version>
   </properties>
 
