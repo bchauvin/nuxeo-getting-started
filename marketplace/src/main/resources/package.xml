@@ -16,7 +16,7 @@
     <platform>server-@DISTRIB_VERSION@-*</platform>
   </platforms>
   <dependencies>
-    <package>nuxeo-jsf-ui</package>
+    <package>nuxeo-web-ui</package>
     <package>nuxeo-dam</package>
   </dependencies>
   <license>Apache License v2.0</license>
