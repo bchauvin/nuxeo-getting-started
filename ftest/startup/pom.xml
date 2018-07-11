@@ -8,7 +8,7 @@
     <relativePath>../../pom.xml</relativePath>
   </parent>
 
-  <artifactId>webdriver</artifactId>
+  <artifactId>marketplace-getting-started-webdriver</artifactId>
   <name>Getting Started - WebDriver Tests</name>
   <description>Getting Started With the Nuxeo Platform - WebDriver</description>
 
@@ -38,8 +38,8 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>org.nuxeo.ecm.distribution</groupId>
-      <artifactId>nuxeo-marketplace-jsf-ui</artifactId>
+      <groupId>org.nuxeo.web.ui</groupId>
+      <artifactId>nuxeo-web-ui-marketplace</artifactId>
       <type>zip</type>
       <scope>test</scope>
     </dependency>
