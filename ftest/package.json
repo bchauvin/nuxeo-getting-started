@@ -13,6 +13,7 @@
     "test": "mocha && eslint lib/ test/"
   },
   "dependencies": {
-    "nuxeo": "3.8.0"
+    "es6-promise": "^4.2.5",
+    "nuxeo": "^3.8.0"
   }
 }

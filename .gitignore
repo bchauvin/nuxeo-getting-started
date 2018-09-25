@@ -5,4 +5,5 @@ bin
 target
 *~
 *.orig
-ftest/node_modules
+**/node_modules
+**/.eslintrc

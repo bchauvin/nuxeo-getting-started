@@ -1,3 +1,3 @@
 module.exports = {
-  maybeFirst: require('./maybe-first'),
+  usersGroups: require('.users-groups')
 };
