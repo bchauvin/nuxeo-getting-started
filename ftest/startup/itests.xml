@@ -10,7 +10,7 @@
   <import file="${out.dir}/nuxeo-ftest.xml" />
 
   <!-- Instruction for installing the MP to be tested -->
-  <property name="mp.install" value="file:${out.dir}/nuxeo-web-ui-marketplace-${marketplace.webui.version}.zip,
+  <property name="mp.install" value="file:${out.dir}/nuxeo-web-ui-marketplace-${nuxeo.webui.mp.version}.zip,
     file:${out.dir}/marketplace-${marketplace.dam.version}.zip,
     file:${out.dir}/marketplace-getting-started-${maven.project.version}.zip" />
   <!-- Override default prepare-environment target to make it download your MP -->
