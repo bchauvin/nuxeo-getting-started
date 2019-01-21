@@ -10,7 +10,7 @@
   <artifactId>marketplace-getting-started-parent</artifactId>
   <packaging>pom</packaging>
   <name>Getting Started with the Nuxeo Platform - Nuxeo package - Parent</name>
-  <version>1.3.3</version>
+  <version>1.3.4-SNAPSHOT</version>
 
   <modules>
     <module>marketplace</module>
