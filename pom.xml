@@ -18,9 +18,9 @@
   </modules>
 
   <properties>
-    <showcase.version>11.1-SNAPSHOT</showcase.version>
     <sample.data.version>1.1.1</sample.data.version>
     <nuxeo.studio.version>10.2.0</nuxeo.studio.version>
+    <nuxeo.showcase.version>11.1-SNAPSHOT</nuxeo.showcase.version>
     <marketplace.dam.version>6.5.0-SNAPSHOT</marketplace.dam.version>
     <marketplace.webui.version>3.0.0-SNAPSHOT</marketplace.webui.version>
   </properties>
@@ -39,7 +39,7 @@
       <dependency>
         <groupId>org.nuxeo.ecm.platform</groupId>
         <artifactId>nuxeo-showcase-content-importer</artifactId>
-        <version>${showcase.version}</version>
+        <version>${nuxeo.showcase.version}</version>
       </dependency>
       <dependency>
         <groupId>org.nuxeo.tutorials</groupId>
