@@ -20,7 +20,7 @@
   <properties>
     <sample.data.version>1.1.1</sample.data.version>
     <nuxeo.studio.version>10.10.0</nuxeo.studio.version>
-    <marketplace.dam.version>6.4.3</marketplace.dam.version>
+    <marketplace.dam.version>6.4.4-SNAPSHOT</marketplace.dam.version>
     <marketplace.webui.version>2.4.8-SNAPSHOT</marketplace.webui.version>
   </properties>
 
