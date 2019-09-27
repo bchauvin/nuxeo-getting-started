@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>org.nuxeo.ecm.distribution</groupId>
-    <artifactId>nuxeo-distribution</artifactId>
+    <groupId>org.nuxeo</groupId>
+    <artifactId>nuxeo-ecm</artifactId>
     <version>11.1-SNAPSHOT</version>
   </parent>
 
@@ -21,7 +21,6 @@
     <sample.data.version>1.1.1</sample.data.version>
     <nuxeo.studio.version>10.10.0</nuxeo.studio.version>
     <nuxeo.showcase.version>11.1-SNAPSHOT</nuxeo.showcase.version>
-    <marketplace.dam.version>6.5.0-SNAPSHOT</marketplace.dam.version>
     <marketplace.webui.version>3.0.0-SNAPSHOT</marketplace.webui.version>
   </properties>
 
@@ -67,13 +66,6 @@
         <groupId>org.nuxeo.web.ui</groupId>
         <artifactId>nuxeo-web-ui-marketplace</artifactId>
         <version>${marketplace.webui.version}</version>
-        <type>zip</type>
-        <scope>test</scope>
-      </dependency>
-      <dependency>
-        <groupId>org.nuxeo.marketplace.dam</groupId>
-        <artifactId>marketplace</artifactId>
-        <version>${marketplace.dam.version}</version>
         <type>zip</type>
         <scope>test</scope>
       </dependency>
