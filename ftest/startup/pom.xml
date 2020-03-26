@@ -44,12 +44,6 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>org.nuxeo.packages</groupId>
-      <artifactId>nuxeo-dam-package</artifactId>
-      <type>zip</type>
-      <scope>test</scope>
-    </dependency>
-    <dependency>
       <groupId>org.nuxeo.tutorials</groupId>
       <artifactId>marketplace-getting-started</artifactId>
       <type>zip</type>
