@@ -17,7 +17,6 @@
   </platforms>
   <dependencies>
     <package>nuxeo-web-ui</package>
-    <package>nuxeo-dam</package>
   </dependencies>
   <license>Apache License v2.0</license>
   <license-url>http://www.apache.org/licenses/LICENSE-2.0.html</license-url>
