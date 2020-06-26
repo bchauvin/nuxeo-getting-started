@@ -12,8 +12,7 @@
   <production-state>production_ready</production-state>
   <supported>true</supported>
   <platforms>
-    <platform>server-@DISTRIB_VERSION@</platform>
-    <platform>server-@DISTRIB_VERSION@-*</platform>
+    <platform>server-@NUXEO_TARGET_VERSION@</platform>
   </platforms>
   <dependencies>
     <package>nuxeo-web-ui</package>
