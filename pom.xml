@@ -20,7 +20,7 @@
   <properties>
     <sample.data.version>1.1.1</sample.data.version>
     <nuxeo.studio.version>10.10.0</nuxeo.studio.version>
-    <nuxeo.showcase.version>11.1</nuxeo.showcase.version>
+    <nuxeo.showcase.version>1.4.3</nuxeo.showcase.version>
     <marketplace.webui.version>3.0.0</marketplace.webui.version>
     <nuxeo.target.version>11.*</nuxeo.target.version>
   </properties>
